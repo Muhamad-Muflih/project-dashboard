@@ -1,0 +1,110 @@
+.sidebar {
+    float: left;
+    width: 10%;
+    height: 1000px;
+    background-color: rgb(202, 198, 198);
+    padding-left: 30px; 
+    padding-right: 30px;
+    position: fixed;
+} 
+.conteiner {
+display: flex;
+margin-top: 10px;
+align-items: center;
+} 
+.sidebar1 {
+    margin-left: 10px;
+} 
+.sidebar2 {
+    margin-left: 10px;
+}
+.sidebar3 {
+    margin-left: 10px;
+}
+.sidebar4 {
+    margin-left: 10px;
+}
+.sidebar5 {
+    margin-left: 10px;
+}
+.sidebar6 {
+    margin-left: 10px;
+}
+.sidebar7 {
+    margin-left: 10px;
+}
+.sidebar8 {
+    margin-left: 10px;
+}
+.sidebar9 {
+    margin-left: 10px;
+}
+.par {
+    margin-left: 10px;
+}
+.par1{
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0;
+}
+.par2 {
+    margin: 0;
+}
+.content {
+    width: 55%;
+    margin-left: 15%;
+    float: left;    
+}
+body {
+    margin: 0;
+}
+
+.content1 {
+    margin-left: 50px;
+}
+.content2 {
+    float: left;
+    border: 1px solid grey;
+    margin-left: 50px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+.content3 {
+    float: left;
+    border: 1px solid gray;
+    margin-left: 50px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0p
+}
+
+.content4 {
+    float: left;
+    border: 1px solid gray;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.content9 {
+    padding-bottom: 50px;
+}
+.content10 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+body {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.clear {
+    clear: left;
+}
